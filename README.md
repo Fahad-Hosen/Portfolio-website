@@ -40,6 +40,4 @@ Visit the live demo: [Portfolio Website](https://portfolio-website-project-mu.ve
 
 ---
 
-### 📄 License
-This project is open-source and available under the MIT License. Feel free to use, modify, and share.
-```
+
